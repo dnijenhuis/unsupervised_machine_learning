@@ -24,7 +24,7 @@ To install and run the project, follow these steps:
 2. Open the project through an IDE (e.g. PyCharm) and set the interpreter. 
 3. Make sure you have the required libraries installed. I refer to the case study document for a list of the libraries.
 4. Open the `variables.py` file and replace all PLACEHOLDER values with the correct paths.
-5. Optionally, adjust variables in `variables.py` to suit your system limits goal (e.g. maximum features, number of clusters, stopwords).
+5. Optionally, adjust variables in `variables.py` to suit your system limits and goals (e.g. maximum features, number of clusters, stopwords).
 6. Run `main.py` to execute the full pipeline.
 7. During the execution, the user needs to provide input twice based on presented graphs. Specifically:
    * The number of PCA-components (based on the (cumulative) explained variance per component graph);
